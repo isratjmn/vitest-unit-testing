@@ -1,0 +1,16 @@
+{
+	"name": "unit-testing",
+	"version": "1.0.0",
+	"license": "MIT",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "vitest --reporter verbose"
+	},
+	"devDependencies": {
+		"vitest": "^1.6.0"
+	},
+	"dependencies": {
+		"crypto-js": "^4.2.0"
+	}
+}
